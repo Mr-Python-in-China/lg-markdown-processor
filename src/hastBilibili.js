@@ -36,7 +36,7 @@ export default function hastBilibili() {
           tagName: "iframe",
           properties: {
             src:
-              "https://www.bilibili.com/blackboard/webplayer/embed-old.html?" +
+              "https://player.bilibili.com/player.html?" +
               Object.entries(r)
                 .filter(([_, value]) => value !== undefined)
                 .map(
