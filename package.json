@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "webpack serve -c test/webpack.config.js"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "yarn@4.4.1",
   "dependencies": {
     "hast-util-to-jsx-runtime": "^2.3.0",
